@@ -1,0 +1,42 @@
+h1,h2,h3{
+    font-family: 'Lato', sans-serif;
+}
+h1{font-size: 48px;}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.bleu{
+
+    background-color: black;
+}
+
+main{min-height: 100vh;
+    background-color: blueviolet
+}
+
+article{min-height: 500px;
+    border: 1px solid black;
+    padding: 5vh 0;
+}
+
+.format{width: 60%;
+    margin:auto;
+    min-height: 400px;
+    background: black;
+    color: beige;
+}
+
+.btn-perso{background-color: rgba(216, 156, 216, 0.747);
+    border: solid black;
+}
+
+.btn-perso:hover{background-color: blue;}
+
+.fa-linkedin,
+.fa-facebook{
+    font-size: 20px;
+    color: beige;
+}
+.fa-linkedin{color: #;}
